@@ -28,9 +28,12 @@
     - Unsettled:
       - How will we import existing blogs, missionaries, etc, to [custom] Divi templates?
         - Articles
-        - [https://clicknathan.com/web-design/automatically-create-pages-wordpress/](https://clicknathan.com/web-design/automatically-create-pages-wordpress/)
-        - [https://blog.wplauncher.com/add-wordpress-post-or-page-programmatically/](https://blog.wplauncher.com/add-wordpress-post-or-page-programmatically/)
-        - [https://yoohooplugins.com/create-wordpress-post-page-php/](https://yoohooplugins.com/create-wordpress-post-page-php/)
+          - [https://clicknathan.com/web-design/automatically-create-pages-wordpress/](https://clicknathan.com/web-design/automatically-create-pages-wordpress/)
+          - [https://blog.wplauncher.com/add-wordpress-post-or-page-programmatically/](https://blog.wplauncher.com/add-wordpress-post-or-page-programmatically/)
+          - [https://yoohooplugins.com/create-wordpress-post-page-php/](https://yoohooplugins.com/create-wordpress-post-page-php/)
+        - Perhaps -> Use REST API to post "posts", or blog pages (e.g.), and then convert into Divi format/template
+          - [REST CRUD Functions](https://code.tutsplus.com/tutorials/wp-rest-api-creating-updating-and-deleting-data--cms-24883)
+          - [WP API Docs](https://developer.wordpress.org/rest-api/reference/posts/)
 
 ### Plugins
 
