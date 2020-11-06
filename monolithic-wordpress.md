@@ -17,13 +17,20 @@
 - If no
   - Divi, Elementor, Etc.? (i.e., visual editors)
   - Concern for landing pages/customization
-- Recommendation ->
+  - Components based Dev
+    - e.g., [https://flyntwp.com/](https://flyntwp.com/)
+      - [Set-up](https://flyntwp.com/the-beginners-guide-to-developing-a-custom-wordpress-theme-with-flynt/)
+- Initial Recommendation ->
   - No. Use Divi, one-time paid @\$200-something, which has [decent documentation](https://www.elegantthemes.com/documentation/developers/) for many customizaitons, including developing custom "modules"
     - Find a Base Theme
     - Module, Theme, and Templating development (HTML, PHP, JS, React, CSS)
       - Recommendation: Do not have contractors build custom theming (provide and roll-out in-house changes)
     - Unsettled:
       - How will we import existing blogs, missionaries, etc, to [custom] Divi templates?
+        - Articles
+        - [https://clicknathan.com/web-design/automatically-create-pages-wordpress/](https://clicknathan.com/web-design/automatically-create-pages-wordpress/)
+        - [https://blog.wplauncher.com/add-wordpress-post-or-page-programmatically/](https://blog.wplauncher.com/add-wordpress-post-or-page-programmatically/)
+        - [https://yoohooplugins.com/create-wordpress-post-page-php/](https://yoohooplugins.com/create-wordpress-post-page-php/)
 
 ### Plugins
 
@@ -62,4 +69,8 @@ For the Developer, however, it is far more inaccessible and will cause slower ex
 
 ### Workflow / Dev-Environment
 
-<!--Todo-->
+- Articles
+  - [https://premium.wpmudev.org/blog/improve-wordpress-development-workflow-local-server/](https://premium.wpmudev.org/blog/improve-wordpress-development-workflow-local-server/)
+  - [https://css-tricks.com/continuous-deployments-for-wordpress-using-github-actions/](https://css-tricks.com/continuous-deployments-for-wordpress-using-github-actions/)
+- Local
+  - [https://localwp.com/](https://localwp.com/)
