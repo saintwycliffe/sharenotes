@@ -44,6 +44,22 @@
 - Pantheon?
 - Github Code
 
+##### Reverse Proxying
+
+To clarify, by reverse proxy I’ve meant that we have the ability to choose certain URLs, for example “wycliffe.org/donate”, which will on a brand-new site, actually reflect the contents and functionality of the old-site. In this way we would migrate more slowly to a new platform.
+
+Per Dave,
+
+> We may be able to [reverse proxy the old website pages] at [the application gateway](https://docs.microsoft.com/en-us/azure/application-gateway/create-url-route-portal)
+
+Nevertheless, this "if" is important for moving forward and rolling out a development plan.
+
+### Content-Creator Experience
+
+The Wordpress platform is far superior in user-friendliness, and insofar as we want non-developers (not familiar with basic HTML, CSS, JS) interacting with the site, this has far more potential for ease of access.
+
+For the Developer, however, it is far more inaccessible and will cause slower experiences. For some pages, which require fast rolling-out, it is possible, though not necessarily recommended, to host static pages.
+
 ### Workflow / Dev-Environment
 
 <!--Todo-->
