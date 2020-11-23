@@ -34,6 +34,8 @@
         - Perhaps -> Use REST API to post "posts", or blog pages (e.g.), and then convert into Divi format/template
           - [REST CRUD Functions](https://code.tutsplus.com/tutorials/wp-rest-api-creating-updating-and-deleting-data--cms-24883)
           - [WP API Docs](https://developer.wordpress.org/rest-api/reference/posts/)
+        - Through ["Advanced Custom Fields"](https://www.advancedcustomfields.com/), e.g., like this [YT tutorial](https://www.youtube.com/watch?v=LWM41Rcao3s)
+        - Through PHP Wrapper for WooCommerce REST API, [https://dominykasgel.com/woocommerce-rest-api-import-products-json/](here)
 
 ### Plugins
 
