@@ -57,3 +57,17 @@ I'm considering this class, but may need to put the lion's share of my efforts i
 - [Javascript in FE WP Dev](https://www.udemy.com/course/gutenberg/)
 
 If I want to work long-term with Divi, [this course on developing Divi modules](https://www.udemy.com/course/divi-dojo/), which actually gets into the code base, looks promising, even though much more expensive than other classes.
+
+## Totals
+
+### Paid Classes
+
+- [JS in WP](https://www.udemy.com/course/gutenberg/) - ($11)
+- [YT Clone in PHP](https://www.udemy.com/course/youtube-clone/) - ($10)
+- [Divi Dojo](https://www.udemy.com/course/divi-dojo/) - ($200)
+
+Total $: ~ $225
+
+### Total Time
+
+Total Time: ~ 3 Wks
