@@ -17,6 +17,8 @@ Next I would like to code in PHP as much as possible. I'm considering these cour
 
   - Unclear from the title, but this class works through building a PHP-based Content Management System from scratch.
 
+- [A PHP MVC with an App - OOP](https://www.udemy.com/course/object-oriented-php-mvc/)
+
   The length of this depends on the class. The shorter would be about 3 days.
 
 ## PHP Framework, if we decide to use it - Laravel
@@ -63,10 +65,11 @@ If I want to work long-term with Divi, [this course on developing Divi modules](
 ### Paid Classes
 
 - [JS in WP](https://www.udemy.com/course/gutenberg/) - ($11)
+- [PHP MVC, OOP](https://www.udemy.com/course/object-oriented-php-mvc/) - ($13)
 - [YT Clone in PHP](https://www.udemy.com/course/youtube-clone/) - ($10)
 - [Divi Dojo](https://www.udemy.com/course/divi-dojo/) - ($200)
 
-Total $: ~ $225
+Total $: ~ $225/235
 
 ### Total Time
 
